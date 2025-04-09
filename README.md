@@ -1,30 +1,18 @@
-👩‍💻 About Me
-Hi, I'm Charu Patel, a passionate Web Developer currently pursuing an MCA at Indira Gandhi Delhi Technical University for Women (IGDTUW). I hold a Bachelor's degree in Computer Science (HONS.) from Delhi University's Deen Dayal Upadhyaya College, with a CGPA of 8.5/10.
+# 💫 About Me:
+👩‍💻 About Me<br>Hi, I'm Charu Patel, a passionate Web Developer currently pursuing an MCA at Indira Gandhi Delhi Technical University for Women (IGDTUW). I hold a Bachelor's degree in Computer Science (HONS.) from Delhi University's Deen Dayal Upadhyaya College, with a CGPA of 8.5/10.<br><br>🌟 Academic Achievements<br>Senior Secondary (Science Stream): Scored 94% at Salwan Public School, Ghaziabad.<br>Completed courses in Front-End Development on platforms like Udemy and Microsoft.<br>Sharpening MERN stack expertise through CODING NINJAS.<br>💻 Technical Skills<br>Programming Languages: JavaScript, HTML, CSS<br>Frameworks & Libraries: React.js, Node.js, Express.js<br>Database Management: MongoDB, SQL<br>Other Tools & Platforms: Git, GitHub, Passport.js<br>🛠️ Projects<br>Here are some of the projects I’ve worked on:<br><br>E-Commerce App:<br>Features: Product filtering, user authentication, admin panel for CRUD operations.<br>User Authentication & Validation:<br>Tools: Passport.js, bcrypt, JWT.<br>Other Projects:<br>TODO List and Contact List implementations.<br>Feel free to explore my repositories for a deeper dive into my work. 🚀<br><br>🌱 What I’m Learning<br>I’m continuously exploring new technologies and expanding my expertise in:<br><br>Advanced MERN stack techniques.<br>Building scalable, user-centric applications.<br>✨ Fun Fact<br>I’m as passionate about creative design as I am about coding and problem-solving!
 
-🌟 Academic Achievements
-Senior Secondary (Science Stream): Scored 94% at Salwan Public School, Ghaziabad.
-Completed courses in Front-End Development on platforms like Udemy and Microsoft.
-Sharpening MERN stack expertise through CODING NINJAS.
-💻 Technical Skills
-Programming Languages: JavaScript, HTML, CSS
-Frameworks & Libraries: React.js, Node.js, Express.js
-Database Management: MongoDB, SQL
-Other Tools & Platforms: Git, GitHub, Passport.js
-🛠️ Projects
-Here are some of the projects I’ve worked on:
 
-E-Commerce App:
-Features: Product filtering, user authentication, admin panel for CRUD operations.
-User Authentication & Validation:
-Tools: Passport.js, bcrypt, JWT.
-Other Projects:
-TODO List and Contact List implementations.
-Feel free to explore my repositories for a deeper dive into my work. 🚀
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/charupatel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charupatelbaghi@gmail.com) 
 
-🌱 What I’m Learning
-I’m continuously exploring new technologies and expanding my expertise in:
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=charupatel-devs&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=charupatel-devs&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=charupatel-devs&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Advanced MERN stack techniques.
-Building scalable, user-centric applications.
-✨ Fun Fact
-I’m as passionate about creative design as I am about coding and problem-solving!
+---
+[![](https://visitcount.itsvg.in/api?id=charupatel-devs&icon=1&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
