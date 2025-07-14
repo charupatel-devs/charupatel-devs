@@ -1,11 +1,9 @@
 # 💫 About Me:
 👩‍💻 About Me<br>Hi, I'm Charu Patel,
-
+[![Homepage Screenshot](https://res.cloudinary.com/dthnv9dxb/image/upload/v1752501082/Screenshot_2025-07-14_at_7.18.12_PM_mevsxa.png)](https://www.charupatel.xyz/)
 [![Portfolio](https://img.shields.io/badge/charupatel.xyz-Visit%20My%20Website-blueviolet?style=for-the-badge&logo=google-chrome)](https://www.charupatel.xyz/)
 
-[![Homepage Screenshot]((https://res.cloudinary.com/dthnv9dxb/image/upload/v1752501082/Screenshot_2025-07-14_at_7.18.12_PM_mevsxa.png))](https://www.charupatel.xyz/)
-
-[![Portfolio](https://img.shields.io/badge/charupatel.xyz-Visit%20My%20Website-blueviolet?style=for-the-badge&logo=google-chrome)](https://www.charupatel.xyz/) a passionate Web Developer currently pursuing an MCA at Indira Gandhi Delhi Technical University for Women (IGDTUW) with a CGPA of 9.24/10. I hold a Bachelor's degree in Computer Science (HONS.) from Delhi University's Deen Dayal Upadhyaya College, with a CGPA of 8.5/10.<br><br>🌟 Academic Achievements<br>Senior Secondary (Science Stream): Scored 94% at Salwan Public School, Ghaziabad.<br>Completed courses in Front-End Development on platforms like Udemy and Microsoft.<br>Sharpening MERN stack expertise through CODING NINJAS.<br>Feel free to explore my repositories for a deeper dive into my work. 🚀<br><br>🌱 What I’m Learning<br>I’m continuously exploring new technologies and expanding my expertise in:<br>Advanced MERN stack techniques.<br>Building scalable, user-centric applications.<br>✨ Fun Fact<br>I’m as passionate about creative design as I am about coding and problem-solving!
+ a passionate Web Developer currently pursuing an MCA at Indira Gandhi Delhi Technical University for Women (IGDTUW) with a CGPA of 9.24/10. I hold a Bachelor's degree in Computer Science (HONS.) from Delhi University's Deen Dayal Upadhyaya College, with a CGPA of 8.5/10.<br><br>🌟 Academic Achievements<br>Senior Secondary (Science Stream): Scored 94% at Salwan Public School, Ghaziabad.<br>Completed courses in Front-End Development on platforms like Udemy and Microsoft.<br>Sharpening MERN stack expertise through CODING NINJAS.<br>Feel free to explore my repositories for a deeper dive into my work. 🚀<br><br>🌱 What I’m Learning<br>I’m continuously exploring new technologies and expanding my expertise in:<br>Advanced MERN stack techniques.<br>Building scalable, user-centric applications.<br>✨ Fun Fact<br>I’m as passionate about creative design as I am about coding and problem-solving!
 
 
 ## 🌐 Socials:
